@@ -1,0 +1,16 @@
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\bin\Debug\net5.0\Revisao-04.exe
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\bin\Debug\net5.0\Revisao-04.deps.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\bin\Debug\net5.0\Revisao-04.runtimeconfig.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\bin\Debug\net5.0\Revisao-04.runtimeconfig.dev.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\bin\Debug\net5.0\Revisao-04.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\bin\Debug\net5.0\ref\Revisao-04.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\bin\Debug\net5.0\Revisao-04.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\obj\Debug\net5.0\Revisao-04.csproj.AssemblyReference.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\obj\Debug\net5.0\Revisao-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\obj\Debug\net5.0\Revisao-04.AssemblyInfoInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\obj\Debug\net5.0\Revisao-04.AssemblyInfo.cs
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\obj\Debug\net5.0\Revisao-04.csproj.CoreCompileInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\obj\Debug\net5.0\Revisao-04.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\obj\Debug\net5.0\ref\Revisao-04.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\obj\Debug\net5.0\Revisao-04.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06-Revisao-04\Revisao-04\obj\Debug\net5.0\Revisao-04.genruntimeconfig.cache

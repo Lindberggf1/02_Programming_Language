@@ -1,0 +1,16 @@
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\bin\Debug\net5.0\Revisao-05.exe
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\bin\Debug\net5.0\Revisao-05.deps.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\bin\Debug\net5.0\Revisao-05.runtimeconfig.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\bin\Debug\net5.0\Revisao-05.runtimeconfig.dev.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\bin\Debug\net5.0\Revisao-05.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\bin\Debug\net5.0\ref\Revisao-05.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\bin\Debug\net5.0\Revisao-05.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\obj\Debug\net5.0\Revisao-05.csproj.AssemblyReference.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\obj\Debug\net5.0\Revisao-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\obj\Debug\net5.0\Revisao-05.AssemblyInfoInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\obj\Debug\net5.0\Revisao-05.AssemblyInfo.cs
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\obj\Debug\net5.0\Revisao-05.csproj.CoreCompileInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\obj\Debug\net5.0\Revisao-05.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\obj\Debug\net5.0\ref\Revisao-05.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\obj\Debug\net5.0\Revisao-05.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula06\Aula06-Revisao-05\Revisao-05\obj\Debug\net5.0\Revisao-05.genruntimeconfig.cache

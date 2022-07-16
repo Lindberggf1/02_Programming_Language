@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Produto_Estoque/1.0.0": {
+        "runtime": {
+          "Produto_Estoque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Produto_Estoque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

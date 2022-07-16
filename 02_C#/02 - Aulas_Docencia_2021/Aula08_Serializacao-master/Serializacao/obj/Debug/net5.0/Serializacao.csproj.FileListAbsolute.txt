@@ -1,0 +1,16 @@
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\bin\Debug\net5.0\Serializacao.exe
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\bin\Debug\net5.0\Serializacao.deps.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\bin\Debug\net5.0\Serializacao.runtimeconfig.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\bin\Debug\net5.0\Serializacao.runtimeconfig.dev.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\bin\Debug\net5.0\Serializacao.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\bin\Debug\net5.0\ref\Serializacao.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\bin\Debug\net5.0\Serializacao.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\obj\Debug\net5.0\Serializacao.csproj.AssemblyReference.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\obj\Debug\net5.0\Serializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\obj\Debug\net5.0\Serializacao.AssemblyInfoInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\obj\Debug\net5.0\Serializacao.AssemblyInfo.cs
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\obj\Debug\net5.0\Serializacao.csproj.CoreCompileInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\obj\Debug\net5.0\Serializacao.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\obj\Debug\net5.0\ref\Serializacao.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\obj\Debug\net5.0\Serializacao.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Serializacao\obj\Debug\net5.0\Serializacao.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\bin\Debug\net5.0\Thread.exe
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\bin\Debug\net5.0\Thread.deps.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\bin\Debug\net5.0\Thread.runtimeconfig.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\bin\Debug\net5.0\Thread.runtimeconfig.dev.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\bin\Debug\net5.0\Thread.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\bin\Debug\net5.0\ref\Thread.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\bin\Debug\net5.0\Thread.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\obj\Debug\net5.0\Thread.csproj.AssemblyReference.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\obj\Debug\net5.0\Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\obj\Debug\net5.0\Thread.AssemblyInfoInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\obj\Debug\net5.0\Thread.AssemblyInfo.cs
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\obj\Debug\net5.0\Thread.csproj.CoreCompileInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\obj\Debug\net5.0\Thread.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\obj\Debug\net5.0\ref\Thread.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\obj\Debug\net5.0\Thread.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Thread\Thread\obj\Debug\net5.0\Thread.genruntimeconfig.cache

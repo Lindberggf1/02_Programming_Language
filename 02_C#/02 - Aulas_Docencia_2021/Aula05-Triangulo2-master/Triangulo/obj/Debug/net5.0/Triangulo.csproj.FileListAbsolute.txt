@@ -1,0 +1,16 @@
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\bin\Debug\net5.0\Triangulo.exe
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\bin\Debug\net5.0\Triangulo.deps.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\bin\Debug\net5.0\Triangulo.runtimeconfig.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\bin\Debug\net5.0\Triangulo.runtimeconfig.dev.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\bin\Debug\net5.0\Triangulo.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\bin\Debug\net5.0\ref\Triangulo.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\bin\Debug\net5.0\Triangulo.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.csproj.AssemblyReference.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.AssemblyInfoInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.AssemblyInfo.cs
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\obj\Debug\net5.0\ref\Triangulo.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.genruntimeconfig.cache

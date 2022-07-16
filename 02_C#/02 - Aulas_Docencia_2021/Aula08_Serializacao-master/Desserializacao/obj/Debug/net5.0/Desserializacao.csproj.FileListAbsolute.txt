@@ -1,0 +1,16 @@
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\bin\Debug\net5.0\Desserializacao.exe
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\bin\Debug\net5.0\Desserializacao.deps.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\bin\Debug\net5.0\Desserializacao.runtimeconfig.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\bin\Debug\net5.0\Desserializacao.runtimeconfig.dev.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\bin\Debug\net5.0\Desserializacao.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\bin\Debug\net5.0\ref\Desserializacao.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\bin\Debug\net5.0\Desserializacao.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\obj\Debug\net5.0\Desserializacao.csproj.AssemblyReference.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\obj\Debug\net5.0\Desserializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\obj\Debug\net5.0\Desserializacao.AssemblyInfoInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\obj\Debug\net5.0\Desserializacao.AssemblyInfo.cs
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\obj\Debug\net5.0\Desserializacao.csproj.CoreCompileInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\obj\Debug\net5.0\Desserializacao.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\obj\Debug\net5.0\ref\Desserializacao.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\obj\Debug\net5.0\Desserializacao.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula08_Serializacao\Desserializacao\obj\Debug\net5.0\Desserializacao.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\bin\Debug\net5.0\Produto_Estoque.exe
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\bin\Debug\net5.0\Produto_Estoque.deps.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\bin\Debug\net5.0\Produto_Estoque.runtimeconfig.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\bin\Debug\net5.0\Produto_Estoque.runtimeconfig.dev.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\bin\Debug\net5.0\Produto_Estoque.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\bin\Debug\net5.0\ref\Produto_Estoque.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\bin\Debug\net5.0\Produto_Estoque.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\obj\Debug\net5.0\Produto_Estoque.csproj.AssemblyReference.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\obj\Debug\net5.0\Produto_Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\obj\Debug\net5.0\Produto_Estoque.AssemblyInfoInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\obj\Debug\net5.0\Produto_Estoque.AssemblyInfo.cs
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\obj\Debug\net5.0\Produto_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\obj\Debug\net5.0\Produto_Estoque.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\obj\Debug\net5.0\ref\Produto_Estoque.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\obj\Debug\net5.0\Produto_Estoque.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-Produto_Estoque\Produto_Estoque\obj\Debug\net5.0\Produto_Estoque.genruntimeconfig.cache

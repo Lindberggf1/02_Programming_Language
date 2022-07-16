@@ -1,0 +1,64 @@
+﻿@*recebe a lista que passamos no controler*@
+@model IEnumerable<WebVendas.Models.Seller>
+
+@{
+	ViewData["Title"] = "Sellers";
+}
+
+<h2>@ViewData["Title"]</h2> @*Colocar a variavel no titulo*@
+
+@*Link para o Create*@
+<p>
+	<a asp-action="Create" class="btn btn-default">Create New</a>
+</p>
+
+<table class="table table-striped table-hover">
+	<thead>
+		@*Cabeçario da tabela*@
+		@*para mudar a cor da barra de titulo da tabela*@
+		<tr class="success">
+			<th>
+				@*para mostrar o cabeçario das colunas usamos o DisplayNameFor*@
+				@Html.DisplayNameFor(model => model.Name)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Email)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.BirthDate)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.BaseSalary)
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@*Corpo da tabela*@
+		@foreach (var item in Model)
+		{
+			<tr>
+				@*para mostrar o conteudo das colunas usamos o DisplayFor*@
+				<td> 
+					@Html.DisplayFor(modelItem => item.Name)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Email)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.BirthDate)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.BaseSalary)
+				</td>
+				<td>
+					<a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+					<a asp-action="Details" asp-route-id="@item.Id">Details</a>
+					<a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+

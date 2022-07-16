@@ -1,0 +1,16 @@
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\bin\Debug\net5.0\ConstasBancarias.exe
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\bin\Debug\net5.0\ConstasBancarias.deps.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\bin\Debug\net5.0\ConstasBancarias.runtimeconfig.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\bin\Debug\net5.0\ConstasBancarias.runtimeconfig.dev.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\bin\Debug\net5.0\ConstasBancarias.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\bin\Debug\net5.0\ref\ConstasBancarias.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\bin\Debug\net5.0\ConstasBancarias.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\obj\Debug\net5.0\ConstasBancarias.csproj.AssemblyReference.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\obj\Debug\net5.0\ConstasBancarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\obj\Debug\net5.0\ConstasBancarias.AssemblyInfoInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\obj\Debug\net5.0\ConstasBancarias.AssemblyInfo.cs
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\obj\Debug\net5.0\ConstasBancarias.csproj.CoreCompileInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\obj\Debug\net5.0\ConstasBancarias.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\obj\Debug\net5.0\ref\ConstasBancarias.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\obj\Debug\net5.0\ConstasBancarias.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Auala07_RevisaoGeral\ConstasBancarias\obj\Debug\net5.0\ConstasBancarias.genruntimeconfig.cache

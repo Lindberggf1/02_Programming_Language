@@ -1,0 +1,16 @@
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\bin\Debug\net5.0\SaidaDados.exe
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\bin\Debug\net5.0\SaidaDados.deps.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\bin\Debug\net5.0\SaidaDados.runtimeconfig.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\bin\Debug\net5.0\SaidaDados.runtimeconfig.dev.json
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\bin\Debug\net5.0\SaidaDados.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\bin\Debug\net5.0\ref\SaidaDados.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\bin\Debug\net5.0\SaidaDados.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\obj\Debug\net5.0\SaidaDados.csproj.AssemblyReference.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\obj\Debug\net5.0\SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\obj\Debug\net5.0\SaidaDados.AssemblyInfoInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\obj\Debug\net5.0\SaidaDados.AssemblyInfo.cs
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\obj\Debug\net5.0\SaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\obj\Debug\net5.0\SaidaDados.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\obj\Debug\net5.0\ref\SaidaDados.dll
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\obj\Debug\net5.0\SaidaDados.pdb
+C:\Users\lindb\Desktop\Programacao2_2_2021\Projetos\Aula05-SaidaDados\Aula05-SaidaDados\SaidaDados\obj\Debug\net5.0\SaidaDados.genruntimeconfig.cache
