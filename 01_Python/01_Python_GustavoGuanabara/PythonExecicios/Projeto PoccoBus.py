@@ -27,9 +27,23 @@ def num_assentos(col, lin, matriz, valor):
         lista.clear()
     return matriz
 
+
 def impressao_assentos(matriz):
-    for i in matriz:
-        print(i)
+    linhas = len(matriz)
+    colunas = len(matriz[0])
+
+    for i in range(linhas):
+        for j in range(colunas):
+            if matriz[i][j] == 'M':
+                print('\033[33m %s \033[m'% matriz[i][j], end="")
+            elif matriz[i][j] == 'C':
+                print('\033[37m %s \033[m'% matriz[i][j], end="")
+            elif matriz[i][j] == 'XX':
+                print('\033[31m %s \033[m'% matriz[i][j], end="")
+            else:
+                print('\033[32m %s \033[m'% matriz[i][j], end="")
+        print()
+
 
 def reserva_assento(matriz, a_reservado):
     while True: #enquanto não definir sair, o loop funciona
@@ -74,7 +88,7 @@ while True:
     main_menu()
     try:
         opcao_main = int(input('Digite a opção desejada: ').replace(' ', ''))
-    
+
         if opcao_main == 0:
             break
         elif opcao_main == 3:
