@@ -7,7 +7,7 @@ def leiaInt(msg):
             valor = int(n)
             ok = True
         else:
-            print('\033[0;31mErro! Digite um numero inteiro válido.\033[m')
+            print('\033[0;31m Erro! Digite um numero inteiro válido.\033[m')
         if ok:
             break
     return valor
