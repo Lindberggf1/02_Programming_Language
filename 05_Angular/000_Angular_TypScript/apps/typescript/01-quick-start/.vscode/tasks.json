@@ -1,0 +1,18 @@
+{
+	"version": "2.0.0",
+	"command": "tsc",
+	"isShellCommand": true,
+	"args": ["-p", "."],
+	"showOutput": "silent",
+	"tasks": [
+		{
+			"type": "typescript",
+			"tsconfig": "tsconfig.json",
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "build",
+			"label": "tsc: build - tsconfig.json"
+		}
+	]
+}
