@@ -13,7 +13,7 @@ let AppComponent = class AppComponent {
 AppComponent = __decorate([
     (0, core_1.Component)({
         selector: 'my-app',
-        template: '<h1>My First Angular 2 App oi</h1>'
+        template: '<h1>My First Angular 2 App</h1>'
     })
 ], AppComponent);
 exports.AppComponent = AppComponent;

@@ -24,9 +24,11 @@
     "@angular/router": "~4.0.0",
     "angular-in-memory-web-api": "~0.3.0",
     "systemjs": "0.19.40",
-    "core-js": "^3.27.0",
+    "core-js": "^3.0.0",
+    "reflect-metadata": "^0.1.8",
     "rxjs": "^5.0.1",
-    "zone.js": "^0.8.4"
+    "zone.js": "^0.8.4",
+    "bootstrap": "^3.3.7"
   },
   "devDependencies": {
     "concurrently": "^3.2.0",
