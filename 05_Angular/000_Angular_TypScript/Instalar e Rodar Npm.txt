@@ -1,0 +1,10 @@
+
+
+
+caso erro bom limpar com e instalar novamente: npm cache clean -f
+
+instalar npm: npm install --quiet --progress=false --no-audit --legacy-peer-deps
+
+
+
+rodar: npm start
