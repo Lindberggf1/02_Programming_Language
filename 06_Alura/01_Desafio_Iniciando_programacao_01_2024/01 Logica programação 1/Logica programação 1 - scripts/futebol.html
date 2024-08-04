@@ -1,0 +1,39 @@
+<meta charset="UTF-8">
+
+<script>
+
+	function pulaLinha(){
+		document.write("<br>");
+		document.write("<br>");
+	}
+
+	function mostra(frase){
+		document.write(frase);
+		pulaLinha();
+	}
+  
+
+   // usaremos a funçao parseInt() para transformar o return em int
+	var vitorias = parseInt(prompt("Entre com o numero de vitorias."));
+	var empates = parseInt(prompt("Entre com o numero de empates."));
+   
+   
+	var pontos = vitorias * 3 + empates ;
+
+	mostra("Os pontos do seu time é : "+ pontos);
+
+	if(pontos > 28){
+		mostra("Seu time esta melhor do que o ano passado.")
+	}
+    
+    if(pontos < 28){
+		mostra("Seu time esta pior do que o ano passado.")
+    }
+    
+    if(pontos == 28){
+		mostra("Seu time esta igual do que o ano passado.")
+    }
+
+    mostra("Fim.")
+
+</script>

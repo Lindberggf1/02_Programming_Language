@@ -1,0 +1,42 @@
+<meta charset="UTF-8">
+
+<input/>
+<button> Compare com o meu segredo</button>
+
+<script>
+    
+    var segredo = Math.round(Math.random() * 10);// fixo é assim, 5;
+
+    //pegar o input que foi digitado
+	var input = document.querySelector("input");
+    input.focus();
+	//para nao executar tudo aqui assim que abrir a pagina, ainda sem dados.
+
+	function verifica(){
+
+		//para pegar o valor do input usa-se assim: input.value
+
+		if(input.value == segredo){
+
+			alert("Voce Acertou!!");
+
+		}else{
+
+		    alert("Voce errou.");
+
+		    // vamos limpar o campo do input
+		    input.value = "";
+		}
+         
+         //dar o foco na caixa do input
+         input.focus();
+	}
+
+    /// vamos associar agora a funcao verifica ao clicque do butao
+    var button = document.querySelector("button");
+        
+        //sem abrir e fechar os parentese da function aqui, nao a deixa execurtar sem clicar, pois ele vai para o onclick aqui.
+    button.onclick = verifica; 
+
+</script>
+

@@ -1,0 +1,83 @@
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0 ;
+}
+nav li {
+	display: inline;
+	margin:0 0 0 15px;
+}
+
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+
+}
+
+/*aqui é para capturar e realizar interacao/movimento
+apartir de movimentos do mouse na pagina*/
+nav a:hover {
+	/*trocar cor ao passar o mouse*/
+	color: #C78C19;
+	/*para ficar sublinha quando o mouse estiver em sima*/
+	text-decoration: underline;
+}
+
+main {
+	width: 940px;
+	margin: 0 auto;
+}
+
+form {
+	margin: 40px 0;
+}
+
+form label{
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+
+form input {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+}
+
+footer{
+	text-align: center;
+	/* se fosse para cor seria :background: #CCCCCC;*/
+
+	/*ao utilizar imagem no CSS ele replica ela
+	ate ocupar todo o elemento, economia para guardar ela*/
+	background: url("bg.jpg");
+
+	/*espacamento interno para espaçar mais entre as 
+	bordas do site, termos um "respiro". 40 para cima e 
+	baixo, e 0 para os lados*/
+	padding: 40px 0;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+
+} 
+

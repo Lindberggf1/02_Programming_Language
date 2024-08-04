@@ -1,0 +1,59 @@
+<meta charset="UTF-8">
+
+<script>
+
+	function pulaLinha(){
+		document.write("<br>");
+		document.write("<br>");
+	}
+
+	function mostra(frase){
+		document.write(frase);
+		pulaLinha();
+	}
+
+	
+	function calculaImc(altura , peso){
+		return peso / (altura * altura);
+	}
+
+	var alturaInformada; // = 1.71;
+	var pesoInformado; // = 73;
+  
+   // com prompt capturamos o que o usuario digitou como um formulario.
+ 
+   var nome = prompt("Infome o seu nome: ")
+
+	alturaInformada = prompt(nome + "Informe sua altura: ");
+	pesoInformado   = prompt(nome + "Infomre seu peso: ");
+
+	var imc = calculaImc(alturaInformada , pesoInformado);
+
+	mostra(nome + " O seu Imc calculado é : " + imc);
+
+	if(imc < 18.5){
+
+		mostra("Você esta abaixo do recomendado.")
+	}
+
+	if(imc > 35){
+
+		mostra("você esta acima do recomendado.")
+	}
+
+   if(imc >= 18.5){
+		
+		if(imc <= 35){
+
+			mostra(nome + " seu imc esta excelente!")
+		}
+	}
+
+	// podemos fazer assim tambem
+	if(imc >= 18.5 && imc <= 35){
+		
+		mostra(nome + " seu imc esta excelente!")
+		
+	}
+
+</script>

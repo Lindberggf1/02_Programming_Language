@@ -1,0 +1,94 @@
+<meta charset="UTF-8">
+
+<input/>
+<button> Compare com o meu segredo</button>
+
+<script>
+    
+    function sorteia(){
+    	return Math.round(Math.random() * 10);
+    }
+
+    function sorteiaNumeros(quantidade){
+
+    	var segred = [];
+    	var numero = 1;
+
+    	while(numero <= quantidade){
+
+    		var numeroAleatorio = sorteia();
+
+    		if(numeroAleatorio !== 0){
+
+	    		var ach = false;
+
+	    		for(var posicao = 0; posicao < segred.length; posicao++){
+	    			if(segred[posicao] == numeroAleatorio){
+	    				ach = true;
+	    				break;
+	    			}
+	    		}
+
+	    		if(ach == false){
+
+		    		segred.push(numeroAleatorio);
+		    		numero++;
+
+	    		}
+	    	}
+    	}
+
+    	return segred;
+    }
+    // varios valores, cm array
+    var segredo = [];
+
+    //colocar elementos dentro do array
+    //segredos.push(sorteia());
+    //segredos.push(sorteia());
+    //segredos.push(sorteia());
+    //segredos.push(sorteia());
+    //segredos.push(sorteia());
+    
+     var segredo = sorteiaNumeros(3);
+     
+    //pegar o input que foi digitado
+	var input = document.querySelector("input");
+    input.focus();
+	//para nao executar tudo aqui assim que abrir a pagina, ainda sem dados.
+
+	function verifica(){
+       
+       var achou = false;
+
+		//para pegar o valor do input usa-se assim: input.value
+        
+        for(var posicao = 0; posicao < segredo.length; posicao++){
+			if(input.value == segredo[posicao] ){
+
+				alert("Voce Acertou!!");
+				achou = true;
+				break;
+
+			}
+
+		}
+        
+        if(achou == false){
+			alert("Voce errou.");
+		}
+
+         // vamos limpar o campo do input
+		  input.value = "";
+         //dar o foco na caixa do input
+         input.focus();
+	}
+
+    /// vamos associar agora a funcao verifica ao clicque do butao
+    var button = document.querySelector("button");
+        
+        //sem abrir e fechar os parentese da function aqui, nao a deixa execurtar sem clicar, pois ele vai para o onclick aqui.
+    button.onclick = verifica; 
+
+</script>
+

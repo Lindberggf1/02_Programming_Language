@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title> Contato - Babearia Alura</title>
+
+		<!-- css padrão para limpar defauts dos navegadores -->
+		<link rel="stylesheet" href="reset.css">
+
+		<link rel="stylesheet" href="contato.css">
+	</head>
+	<body>
+		<header>
+			<div class="caixa">
+				<h1><img src="logo.png" alt="Logo da Barbearia Alura"></h1>
+				<nav>
+					<ul>
+						<li><a href="index3.html">Home</a></li>
+						<li><a href="produtos.html">Produtos</a></li>
+						<li><a href="contato.html">Contato</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+     
+     <!--- tab de conteudo principal do body. Tais  tags semânticas como a header fazem com que o navegador entenda melhor o nosso conteúdo, e com isso carregue melhor a nossa página. -->
+		<main>
+			<form>
+				<label for="nomesobrenome">Nome e sobrenome</label>
+				<input type="text" id="nomesobrenome" class="input-padrao" required>
+
+				<!-- colocamos o type email para ser compreendido melhor por mobiles e sistmas -->
+				<label for="email">Email</label>
+				<input type="email" id="email" class="input-padrao" required placeholder="seuemail@dominio.com">
+
+				<!-- colocamos o type tel para ser compreendido melhor por mobiles e sistmas -->
+				<label for="telefone">Telefone</label>
+				<input type="tel" id="telefone" class="input-padrao" required placeholder="(XX) XXXXX-XXXX">
+
+				<label for="mensagem">Mensagem</label>
+				<textarea cols="70" rows="10" id= "mensagem" class="input-padrao" required></textarea>
+
+				<!-- <div> vamos substituir pela Fieldset, responsavel pela config de um ou mais campos especificos
+					como todos os dados de um endereço, cartao de pagamentos etc-->
+				<fieldset>
+					<!-- a tag P vamos colocar a Legend, pois a fildset usa ela no lugar -->
+					<legend>Como preferee o nosso contato?</legend>
+					<label for="radio-email"><input type="radio" name="contato" value="email" id="radio-email">Email</label>
+
+					<label for="radio-telefone"><input type="radio" name="contato" value="telefone" id="radio-telefone">Telefone</label>
+					
+					<!-- USAMOS O CHECKED PARA MOSTRAR QUE QUEREMOS QUE MARQUE AO MENOS UM AQUI -->
+					<label for="radio-whatsapp"><input type="radio" name="contato" value="whatsapp" id="radio-whatsapp" checked>Whatsapp</label>					
+				</fieldset>
+
+				<fieldset>
+					<legend>Qual horário prefere ser atendido?</legend>
+					<select>
+						<option>Manhã</option>
+						<option>Tarde</option>
+						<option>Noite</option>
+					</select>
+				</fieldset>
+
+				<label class="checkbox"><input type="checkbox" checked> Gostaria de receber nossas novidades por email?</label>
+
+				<input type="submit" value="Enviar formulário" class="enviar">
+			</form>
+
+			<!-- iremos fazer aquui uma tabela -->
+			<table>
+				<!--- tag de cabeçario principal da tabela. Tais  tags semânticas como a <th> para so o cabeçario, fazem com que o navegador entenda melhor o nosso conteúdo, e com isso carregue melhor a nossa página. -->
+				<thead>				
+					<tr>
+						<th>Dia</th>
+						<th>Horário</th>
+					</tr>
+				</thead>
+				<!--- tag de conteudo da tabela. Tais  tags semânticas como a <th> para so o cabeçario, a <thead>, fazem com que o navegador entenda melhor o nosso conteúdo, e com isso carregue melhor a nossa página. -->
+				<tbody>
+					<tr>
+						<td>Segunda</td>
+						<td>8h ~ 20h</td>
+					</tr>
+					<tr>
+						<td>Quarta</td>
+						<td>8h ~ 20h</td>
+					</tr>
+					<tr>
+						<td>Sexta</td>
+						<td>8h ~ 20h</td>
+					</tr>
+				</tbody>
+			</table>
+
+		</main>
+
+		<!--- tag de conteudo principal do roda pe do site. Tais  tags semânticas como a header e main fazem com que o navegador entenda melhor o nosso conteúdo, e com isso carregue melhor a nossa página. -->
+		<footer>
+			<img src="logo-branco.png" alt="Logo da Barbearia Alura">
+			<p class="copyright">&copy; Copyright Barbearia Alura - 2020</p>
+		</footer>
+	</body>
+</html> 
